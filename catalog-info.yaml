@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-sample-service
+  description: Sample React web app
+  labels:
+    system: web-apps
+  tags:
+    - javascript
+    - react
+  links:
+    - url: https://github.com/briandesousa/backstage-sample-service
+      title: Backstage Sample Service GitHub
+      icon: code
+spec:
+  type: website
+  lifecycle: experimental
+  owner: web-app-team
