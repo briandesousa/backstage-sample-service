@@ -12,6 +12,8 @@ metadata:
     - url: https://github.com/briandesousa/backstage-sample-service
       title: Backstage Sample Service GitHub
       icon: code
+  annotations:
+    pagerduty.com/integration-key: c9181af33a984c06d01144f420df074e
 spec:
   type: website
   lifecycle: experimental
