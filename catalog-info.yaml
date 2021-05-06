@@ -14,7 +14,7 @@ metadata:
       icon: code
   annotations:
     pagerduty.com/integration-key: c9181af33a984c06d01144f420df074e
-    opsgenie.com/component-selector: 'tag:"service:backstage-sample-service'
+    opsgenie.com/component-selector: 'tag:"service:backstage-sample-service"'
 spec:
   type: website
   lifecycle: experimental
