@@ -15,7 +15,8 @@ metadata:
   annotations:
     pagerduty.com/integration-key: c9181af33a984c06d01144f420df074e
     opsgenie.com/component-selector: 'tag:"service:backstage-sample-service"'
+    jenkins.io/github-folder: 'roadie/backstage-sample-service'
 spec:
-  type: website
+  type: service
   lifecycle: experimental
   owner: web-app-team
