@@ -17,6 +17,8 @@ metadata:
     opsgenie.com/component-selector: 'tag:"service:backstage-sample-service"'
     jenkins.io/github-folder: 'briandesousa/backstage-sample-service'
     fossa.io/project-name: backstage-sample-service
+    snyk.io/org-name: briandesousa
+    snyk.io/project-ids: 0873920c-b63d-4b16-89bd-91bf9630df78
 spec:
   type: service
   lifecycle: experimental
