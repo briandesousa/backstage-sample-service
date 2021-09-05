@@ -22,4 +22,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: web-app-team
+  owner: briandesousa
