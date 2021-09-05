@@ -18,7 +18,7 @@ metadata:
     jenkins.io/github-folder: 'briandesousa/backstage-sample-service'
     fossa.io/project-name: backstage-sample-service
     snyk.io/org-name: briandesousa
-    snyk.io/project-ids: 0873920c-b63d-4b16-89bd-91bf9630df78
+    snyk.io/project-ids: 1aff69bc-de69-4d0c-b069-187b159c4465
 spec:
   type: service
   lifecycle: experimental
