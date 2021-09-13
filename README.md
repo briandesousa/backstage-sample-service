@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbriandesousa%2Fbackstage-sample-service.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbriandesousa%2Fbackstage-sample-service?ref=badge_shield)
 
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
