@@ -21,6 +21,7 @@ metadata:
     snyk.io/project-ids: 1aff69bc-de69-4d0c-b069-187b159c4465
     github.com/project-slug: 'briandesousa/backstage-sample-service'
     goharbor.io/repository-slug: 'briandesousa/backstage-sample-service'
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   lifecycle: experimental
